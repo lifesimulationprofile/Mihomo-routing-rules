@@ -5,4 +5,4 @@
 ---
 
 ```text
-[https://raw.githubusercontent.com/lifesimulationprofile/Mihomo-routing-rules/main/rule.yaml](https://raw.githubusercontent.com/lifesimulationprofile/Mihomo-routing-rules/main/rule.yaml)
+https://raw.githubusercontent.com/lifesimulationprofile/Mihomo-routing-rules/main/rule.yaml
